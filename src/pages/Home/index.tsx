@@ -32,7 +32,10 @@ const Home: React.FC = () => {
           </div>
 
           <div>
-            <img src={autoconhecimentoImg} alt="auto conhecimento" />
+            <img
+              src={autoconhecimentoImg}
+              alt="imagem sobre auto conhecimento"
+            />
           </div>
         </div>
       </Info>

@@ -31,7 +31,7 @@ const Home: React.FC = () => {
           </div>
 
           <div>
-            <img src={timeImg} alt="auto conhecimento" />
+            <img src={timeImg} alt="imagem sobre gestão de tempo" />
           </div>
         </div>
       </Info>

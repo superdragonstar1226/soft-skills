@@ -31,7 +31,7 @@ const Home: React.FC = () => {
           </div>
 
           <div>
-            <img src={focusImg} alt="auto conhecimento" />
+            <img src={focusImg} alt="imagem sobre foco" />
           </div>
         </div>
       </Info>
