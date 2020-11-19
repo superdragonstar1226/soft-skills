@@ -13,15 +13,15 @@ const Home: React.FC = () => {
   return (
     <Container>
       <Info>
-        <h1>Andre Lima</h1>
+        <h1>Autoconhecimento</h1>
         <div>
           <div>
-            <h2>Autoconhecimento</h2>
+            <h2>Ham?</h2>
             <p>
-              O auto-conhecimento tem um valor especial para o próprio
-              indivíduo. Uma pessoa que se ‘tornou consciente de si mesma’, por
-              meio de perguntas que lhe foram feitas, está em melhor posição de
-              prever e controlar seu próprio comportamento.
+              O autoconhecimento permite que você descubra suas qualidades,
+              capacidades, bem como seus pontos que devem ser melhorados.
+              Investir em autoconhecimento é designar esforços para entender a
+              si mesmo em todos os âmbitos.
             </p>
 
             <Link to="/time">

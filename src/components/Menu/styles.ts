@@ -15,6 +15,7 @@ export const Container = styled.div`
         color: #6b727a;
         cursor: pointer;
         transition: color 0.2s;
+        text-decoration: none;
 
         &:hover {
           color: ${shade(0.8, "#6b727a")};

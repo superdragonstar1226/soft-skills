@@ -13,14 +13,16 @@ const Home: React.FC = () => {
   return (
     <Container>
       <Info>
-        <h1>Andre Lima</h1>
+        <h1>Autoconhecimento</h1>
         <div>
           <div>
-            <h2>Gestão de Tempo</h2>
+            <h2>Importância Pessoal</h2>
             <p>
-              Sempre que te perguntarem se você pode fazer um trabalho,
-              diga-lhes: – Certamente eu posso! – Em seguida, fique muito
-              ocupado e descubra como fazê-lo.
+              Ter sucesso não é o mesmo que ter sorte, nós fazemos a nossa
+              propria sorte. Mas por onde começar? Ao pensar sobre nós mesmos,
+              deixamos de focar no outro e em tecer julgamentos O
+              autoconhecimento é necessário também para delimitarmos nossos
+              objetivos.
             </p>
 
             <Link to="/focus">

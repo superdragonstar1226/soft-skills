@@ -8,9 +8,10 @@ const Menu: React.FC = () => {
     <Container>
       <header>
         <ul>
-          <Link to="/">Autoconhecimento</Link>
-          <Link to="/time">G. de tempo</Link>
-          <Link to="/focus">Foco e produtividade</Link>
+          <Link to="/">Oque é</Link>
+          <Link to="/time">Importância</Link>
+          <Link to="/focus">Burnout</Link>
+          <Link to="/explode">Seja feliz</Link>
         </ul>
       </header>
     </Container>

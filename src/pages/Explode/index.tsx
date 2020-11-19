@@ -16,17 +16,10 @@ const Home: React.FC = () => {
         <h1>Autoconhecimento</h1>
         <div>
           <div>
-            <h2>Burnout</h2>
-            <p>
-              Um grande motivo que pode atrapalhar sua produtividade é o
-              burnout. A síndrome leva a pessoa à exaustão física e emocional,
-              deixando-a com uma dificuldade imensa de produzir qualquer tarefa
-              que, em seu estado natural, seria tranquila. Portanto, com o
-              autoconhecimento, você diminui muito as chances de chegar ate este
-              estado.
-            </p>
+            <h2>Seja mais feliz</h2>
+            <p>Sem comentarios, apenas assista!</p>
 
-            <Link to="/explode">
+            <Link to="/">
               Proximo <FiArrowRightCircle />
             </Link>
 
@@ -34,7 +27,12 @@ const Home: React.FC = () => {
           </div>
 
           <div>
-            <img src={focusImg} alt="imagem sobre foco" />
+            <iframe
+              width="400"
+              height="300"
+              src="https://www.youtube.com/embed/TlmqHVtsZzk"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            ></iframe>
           </div>
         </div>
       </Info>

@@ -62,6 +62,7 @@ export const Info = styled.div`
     p {
       color: #6b727a;
       max-width: 400px;
+      text-align: center;
     }
 
     img {
